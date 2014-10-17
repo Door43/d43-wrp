@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[wrp:home|Door43 (wrp)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-wrp|d43-wrp repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-wrp/archive/master.zip|d43-wrp.zip]]
+
+**Recent Changes**
+{{changes>ns = wrp}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/wrp|Ethnologue data]]
+
